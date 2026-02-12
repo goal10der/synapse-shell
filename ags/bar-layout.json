@@ -1,0 +1,14 @@
+{
+  "left": [
+    "clock",
+    "settings"
+  ],
+  "center": [
+    "workspaces"
+  ],
+  "right": [
+    "tray",
+    "sidebar",
+    "battery"
+  ]
+}
